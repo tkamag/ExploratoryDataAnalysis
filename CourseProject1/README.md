@@ -24,3 +24,6 @@ When loading the dataset into R, please consider the following:
 * We will only be using data from the dates 2007-02-01 and 2007-02-02. One alternative is to read the data from just those dates rather than reading in the entire dataset and subsetting to those dates.
 * You may find it useful to convert the Date and Time variables to Date/Time classes in R using the strptime() and as.Date() functions.
 * Note that in this dataset missing values are coded as ?.
+
+
+foo <font color='red'>bar</font> foo
