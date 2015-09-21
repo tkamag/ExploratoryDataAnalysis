@@ -25,5 +25,4 @@ When loading the dataset into R, please consider the following:
 * You may find it useful to convert the Date and Time variables to Date/Time classes in R using the strptime() and as.Date() functions.
 * Note that in this dataset missing values are coded as ?.
 
-
-This <span style="color:red">word</span> is not black.
+<font color='green'>text</font>
