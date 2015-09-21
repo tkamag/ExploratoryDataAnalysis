@@ -26,4 +26,4 @@ When loading the dataset into R, please consider the following:
 * Note that in this dataset missing values are coded as ?.
 
 
-foo <font color='red'>bar</font> foo
+This <span style="color:red">word</span> is not black.
